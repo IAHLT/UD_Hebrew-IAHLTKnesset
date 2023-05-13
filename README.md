@@ -7,16 +7,17 @@ The Israeli Association of Human Language Technologies
 https://www.iahlt.org
 ```
 
-A Universal Dependencies treebank for contemporary Hebrew covering Knesset
-protocols. It is released under CC-BY-4.0, see COPYING for details.
+A Universal Dependencies treebank with named entities for contemporary Hebrew
+covering Knesset protocols. It is released under CC-BY-4.0, see COPYING for
+details.
 
 ## Data set
 
-The Universal Dependencies (UD) Hebrew-IAHLT treebank is a work in
-progress. The dataset consists of 2619 annotations of 2619 sentences
-(with a total of 45538 tokens annotated, 4382 unique lemmas) for
-dependency syntax, part-of-speech, lemmatization and morphological
-analysis. The texts were sampled from Knesset protocols.
+The Universal Dependencies (UD) Hebrew-IAHLTKnesset treebank is a work in
+progress. The dataset consists of 2619 annotations of 2619 sentences (with a
+total of 45538 tokens annotated, 4382 unique lemmas) for dependency syntax,
+part-of-speech, lemmatization and morphological analysis. The texts were
+sampled from Knesset protocols.
 
 Note that although the `sentnumber` values are not necessarily consecutive, the
 sentences are in fact sorted according to the original order.
